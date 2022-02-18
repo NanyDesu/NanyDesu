@@ -1,5 +1,8 @@
 <h1 align="center"> Hello! </h1>
 
+welcome to my world, my name is Elaine Menezes, I'm passionate about art and books, I'm a FrontEnd developer
+and UI/UX Design! 
+
 <div align="center">
   <a href="https://github.com/NanyDesu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NanyDesu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
