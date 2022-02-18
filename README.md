@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! </h1>
 
-welcome to my world, my name is Elaine Menezes, I'm passionate about art and books, I'm a FrontEnd developer
-and UI/UX Design! 
+<h4 align="center">Welcome to my world, my name is Elaine Menezes, I'm passionate about art and books, I'm a FrontEnd developer
+and UI/UX Design!</h4>
 
 <div align="center">
   <a href="https://github.com/NanyDesu">
