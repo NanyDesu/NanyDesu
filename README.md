@@ -3,6 +3,7 @@
 <h4 align="center">Welcome to my world, my name is Elaine Menezes, I'm passionate about art and books, I'm a FrontEnd developer
 and UI/UX Design!</h4>
 
+<b><p align="center">  :hammer: EM CONSTRUÇÃO </p></b>
 
 <h2 align="center">  GitHub Analytics </h1>
 
@@ -21,4 +22,4 @@ and UI/UX Design!</h4>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   
-  
+  <h2 align="center"> :sunglasses: Social Links </h1>
