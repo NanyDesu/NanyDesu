@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello! </h1>
 
-<h4 align="center">Welcome to my world, my name is Elaine Menezes, I'm passionate about art and books, I'm a FrontEnd developer, illustrator and UI/UX Design!</h4>
+<h4 align="center"> Hello I'm Ellah Menezes, I'm passionate about art and books, I'm a FrontEnd developer, illustrator and UI/UX Design!</h4>
 
 <b><p align="center">  :hammer: EM CONSTRUÇÃO </p></b>
 
