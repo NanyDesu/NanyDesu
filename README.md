@@ -2,7 +2,7 @@
 
 <h4 align="center"> Hello I'm Ellah Menezes, I'm passionate about art and books, I'm a FrontEnd developer, illustrator and UI/UX Design!</h4>
 
-<b><p align="center">  :hammer: IN PROGRESS </p></b>
+<b><p align="center">  :hammer: IN PROGRESS ... </p></b>
 
 <h2 align="center">  GitHub Analytics </h1>
 
